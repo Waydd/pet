@@ -1,0 +1,60 @@
+.container {
+  width: 327px;
+  padding: 12px 16px;
+  background-color: #e7f0fe;
+}
+
+.title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.item {
+  color: #0056b3;
+  font-weight: 500;
+}
+
+.wrappedString {
+  display: flex;
+  justify-content: space-between;
+  width: 327px;
+}
+
+.wrappedString p {
+  margin: 0;
+}
+
+.textWrapped {
+  display: grid;
+  gap: 8px;
+  
+}
+
+.list {
+  display: grid;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+}
+
+.list li{
+display: flex;
+align-items: center;
+gap: 8px;
+}
+
+.list li::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  min-width: 5px;
+  border-radius: 50%;
+  background-color: #333;
+}
+
+
+.points {
+  font-weight: 500;
+}
+

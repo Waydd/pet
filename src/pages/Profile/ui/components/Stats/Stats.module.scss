@@ -1,0 +1,41 @@
+.wrapped {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  width: 616px;
+  height: 91px;
+  padding: 16px;
+  background: #f5f7fa;
+  border-radius: 10px;
+}
+
+.field {
+  display: grid;
+  gap: 16px;
+  height: 67px;
+  width: 135px;
+  background: white;
+  padding: 14px 12px;
+  border-radius: 10px;
+}
+
+.field p {
+  display: grid;
+  justify-content: center;
+  margin: 0;
+}
+
+.title {
+  font-weight: 500;
+}
+
+.number {
+  font-size: 24px;
+  font-weight: 700;
+  color: #0056b3;
+}
+
+.container {
+  display: grid;
+  gap: 16px;
+}

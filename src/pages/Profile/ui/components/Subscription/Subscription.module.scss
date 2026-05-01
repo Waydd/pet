@@ -1,0 +1,42 @@
+.title {
+  font-weight: 700;
+}
+
+.text {
+  display: grid;
+  gap: 4px;
+  padding: 10px;
+}
+
+.wrappedWhite {
+  display: flex;
+  gap: 16px;
+  width: 852px;
+  height: 42px;
+  background: #f6f6f6;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+
+.wrappedBlue {
+  display: flex;
+  gap: 16px;
+  width: 852px;
+  height: 42px;
+  background: #e7f0fe;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+
+.container {
+  display: grid;
+  gap: 16px;
+}
+
+.container p {
+  margin: 0;
+}

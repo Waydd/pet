@@ -1,0 +1,62 @@
+.line {
+  width: 400px;
+  height: 8px;
+  background: #78788029;
+  border-radius: 100px;
+}
+
+.scalePython {
+  width: 80%;
+  height: 8px;
+  background: #2a6cd2;
+  border-radius: 100px;
+}
+
+.TextWrap {
+  display: grid;
+  gap: 8px;
+  height: 35px;
+}
+
+.scaleTS {
+  width: 30%;
+  height: 8px;
+  background: #2a6cd2;
+  border-radius: 100px;
+}
+
+.scaleNextjs {
+  width: 65%;
+  height: 8px;
+  background: #2a6cd2;
+  border-radius: 100px;
+}
+
+.scaleJS {
+  width: 15%;
+  height: 8px;
+  background: #2a6cd2;
+  border-radius: 100px;
+}
+
+.wrapped {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 870px;
+}
+
+.textContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.textContainer p {
+  margin: 0;
+}
+
+.container {
+  display: grid;
+  gap: 16px;
+}

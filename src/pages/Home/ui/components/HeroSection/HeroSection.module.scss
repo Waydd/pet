@@ -1,0 +1,28 @@
+.mainTitle {
+  font-size: 40px;
+  font-weight: 600;
+  width: 440px;
+}
+
+.title {
+  color: #0056b3;
+  font-size: 28px;
+}
+
+.text {
+  color: #696969;
+  font-size: 32px;
+  width: 660px;
+}
+
+.image {
+  height: 406px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1320px;
+  height: 406px;
+}

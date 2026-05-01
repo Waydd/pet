@@ -1,0 +1,41 @@
+.container {
+  background: #e7f0fe;
+  width: 1320px;
+  height: 285px;
+  border-radius: 10px;
+}
+
+.containerFlex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 1256px;
+  height: 143px;
+  margin: 0 auto;
+}
+
+.logo {
+  height: 30px;
+}
+
+.icon {
+  display: flex;
+  flex-wrap: wrap;
+  background: white;
+  padding: 12px 16px;
+  border-radius: 10px;
+  gap: 10px;
+  font-size: 28px;
+  height: 36px;
+  align-items: center;
+  align-content: center;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 600;
+  color: #0056b3;
+  padding: 0px 42px;
+}

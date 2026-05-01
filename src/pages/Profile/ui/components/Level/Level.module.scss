@@ -1,0 +1,40 @@
+.frame {
+  display: grid;
+  gap: 8px;
+  background: #f5f7fa;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.level {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.line {
+  width: 848px;
+  height: 8px;
+  background: #78788029;
+  border-radius: 100px;
+}
+
+.scale {
+  width: 50%;
+  height: 8px;
+  background: #2a6cd2;
+  border-radius: 100px;
+}
+
+.stats {
+  text-align: right;
+}
+
+.container {
+  display: grid;
+  gap: 16px;
+  width: 872px;
+}
+
+.container p {
+  margin: 0;
+}

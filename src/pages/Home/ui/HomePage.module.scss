@@ -1,0 +1,26 @@
+.container {
+  max-width: 1320px;
+  margin: 55px auto;
+
+  display: grid;
+  gap: 56px;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.text {
+  font-size: 24px;
+  color: #696969;
+  margin: 20px 0 0 0;
+}
