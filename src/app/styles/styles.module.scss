@@ -1,8 +1,6 @@
 .container {
-  max-width: 1200px; /* Или ширина твоего макета, например 1140px */
-  margin: 55px auto; /* Центрирует сам контейнер */
-  // padding: 0 300px; /* Безопасные отступы по краям */
-  //  width: 100%; - иногда нужно, чтобы не сжимался //
+  max-width: 1200px;
+  margin: 55px auto;
   display: grid;
   gap: 28px;
   justify-content: center;
