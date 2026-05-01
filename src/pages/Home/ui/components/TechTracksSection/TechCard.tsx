@@ -1,7 +1,7 @@
 import React from "react";
 import { TechCardData } from "../../../../../shared/data/techTracks.data";
 import styles from "./TechCard.module.scss";
-import { Button } from "../Button/Button";
+import { Button } from "../../../../../shared/ui/Button/Button";
 
 interface CardProps {
   card: TechCardData;
